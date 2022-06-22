@@ -1,0 +1,30 @@
+h1{
+    font-family: Lobster;
+    font-size: 100px;
+}
+
+body{
+    background-color: rgb(133, 242, 251) ;
+}
+
+#logo{
+    width: 80px;margin-top: 30px;border-radius: 20px; border-style: solid; border-color: black; border-width: 1px;
+}
+
+.login_div{
+    float: none;
+    background: rgba(241, 167, 132, 0.8);float: none;border-radius: 15px;border-style: solid;border-color: black; border-width: 8px;
+}
+
+#label_username{
+    font-size: 15px;
+}
+
+.login_div input{
+    width: 75%;
+}
+
+.login_div button{
+    width: 50%;
+    border-radius: 20px;
+}
